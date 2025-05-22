@@ -10,7 +10,8 @@ def render_page_header():
         st.markdown(
             """
             <div style="padding: 1.5rem 0; text-align: center;">
-                <h1 style="margin-bottom: 0.25rem;">🧠 MADGuard AI Explorer</h1>
+                <img src="https://raw.githubusercontent.com/humaninloop/madguard-ai-explorer/main/visuals/header.png" alt="Header Image" style="width: 100%; max-width: 800px; margin-bottom: 1rem;" />
+                <h1 style="margin-bottom: 0.25rem;">MADGuard AI Explorer</h1>
                 <h4 style="color: grey; font-weight: 400;">Robust Diagnostic Mode for RAG Pipeline Feedback Loops</h4>
             </div>
         """,
