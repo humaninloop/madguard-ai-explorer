@@ -15,6 +15,13 @@ A diagnostic Gradio tool to simulate feedback loops in Retrieval-Augmented Gener
 
 ---
 
+## 📽️ Demo & Live Tool
+
+- ▶️ [Watch Demo on YouTube](https://www.youtube.com/watch?v=qjMwvaBXQeY)
+- 🌐 [Explore the Tool on Hugging Face Spaces](https://huggingface.co/spaces/Priti0210/MadGuard)
+
+---
+
 ## 🛠️ Tool Description
 
 - Toggle between **real** and **synthetic** input sources
@@ -135,6 +142,65 @@ This paper introduces and explores **Model Autophagy Disorder (MAD)** — showin
 ### 📜 License
 
 MIT License (see [LICENSE](LICENSE))
+
+## </details>
+
+---
+
+---
+
+<details>
+<summary>🤝 Contributing</summary>
+
+### We Welcome Contributions!
+
+MADGuard AI Explorer is an open-source project built to promote responsible AI development. If you’d like to improve the tool, suggest features, or report issues, we’d love your help!
+
+#### 📦 How to Contribute
+
+1. **Fork the Repository**
+2. **Create a Branch** for your feature or fix:
+
+   ```bash
+   git checkout -b your-feature-name
+   ```
+
+3. **Make Your Changes**
+4. **Commit Your Work** with a clear message:
+
+   ```bash
+   git commit -m "Add feature: explanation of risk levels"
+   ```
+
+5. **Push to Your Fork**:
+
+   ```bash
+   git push origin your-feature-name
+   ```
+
+6. **Open a Pull Request** and describe what you’ve changed and why.
+
+---
+
+### 💡 Contribution Ideas
+
+- New risk scoring methods (e.g., Inception Score for image models)
+- UI/UX improvements for accessibility
+- Exportable reports for auditing
+- Integration with RAG frameworks like LangChain
+- Batch dataset support and history tracking
+
+---
+
+### 🐞 Found a Bug or Have a Feature Request?
+
+If you encounter a bug or have an idea to improve MADGuard AI Explorer, please [open an issue here](https://github.com/humaninloop/madguard-ai-explorer/issues). We appreciate detailed, reproducible examples to help us understand and fix problems faster.
+
+---
+
+### 📜 Code of Conduct
+
+Please be respectful, inclusive, and constructive in all interactions. Our community thrives on collaboration and kindness.
 
 </details>
 
