@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+*.mov
+*.mp4
+.DS_Store
+.env
