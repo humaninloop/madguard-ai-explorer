@@ -147,8 +147,6 @@ MIT License (see [LICENSE](LICENSE))
 
 ---
 
----
-
 <details>
 <summary>🤝 Contributing</summary>
 
