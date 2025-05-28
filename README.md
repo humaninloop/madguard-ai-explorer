@@ -1,14 +1,3 @@
----
-title: MADGuard AI Explorer
-emoji: 🧠
-colorFrom: indigo
-colorTo: green
-sdk: gradio
-sdk_version: "4.44.0"
-app_file: app.py
-pinned: false
----
-
 # 🧠 MADGuard AI Explorer
 
 A diagnostic Gradio tool to simulate feedback loops in Retrieval-Augmented Generation (RAG) pipelines and detect **Model Autophagy Disorder (MAD)** risks.
